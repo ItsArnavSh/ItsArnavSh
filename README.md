@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey👋<br>I am Arnav<br>Web Developer and Rust Enthusiast<br>Interested in Systems Programming<br>Currently working on my wasm project CodeCrux
+Hey👋<br>I am Arnav<br>Backend and Systems Developer<br>
 
 
 ## 🌐 Socials:
