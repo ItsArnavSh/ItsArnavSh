@@ -3,8 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=itsarnavsh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsarnavsh&theme=redical&custom_title=DAMN.&area=true&hide_border=true" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsarnavsh&theme=redical&custom_title=DAMN.&area=true&hide_border=true&hide_title=false" height="" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -62,8 +61,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/itsarnavsh/itsarnavsh/output/snake.svg" alt="Snake animation" />
 
