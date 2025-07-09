@@ -3,6 +3,7 @@
 ###
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=itsarnavsh&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&date_format=%5BY.%5Dn.j" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsarnavsh&theme=redical&custom_title=DAMN.&area=true&hide_border=true&hide_title=false" height="" alt="activity-graph graph"  />
 </div>
 
